@@ -26,8 +26,3 @@ para firmar. Recuerde incluir los cuatro archivos resultantes en la entrega de l
 • Cifre el documento del punto anterior por cifrado asimétrico para que pueda ser descifrado por
 el instructor, utilice un solo comando. Puede usar de referencia la siguiente hoja
 https://devhints.io/gnupg o el ejercicio realizado durante el laboratorio.
-
-• Lee la sección de ayuda de Github llamada verificación de firma de confirmación para agregar
-su firma GPG creada en este laboratorio. Luego suba todo en un solo commit firmado con el
-resultado de todos los ejercicios anteriores. Recuerde incluir todos los otros productos
-solicitados por su instructor.
