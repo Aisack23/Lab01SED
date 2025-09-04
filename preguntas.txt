@@ -1,0 +1,33 @@
+9. Ejercicios
+Debe ser muy ordenado en la organización de carpetas de laboratorio de su repositorio.
+
+• Exportar su llave pública y privada en formato ASCII.
+
+• Crear una copia de las llaves creadas en el punto anterior, luego utilice los dos métodos vistos
+para firmar. Recuerde incluir los cuatro archivos resultantes en la entrega de laboratorio.
+
+• Contesta lo siguiente en el reporte (puede ser un .txt) y luego deberá subirlo a su repositorio:
+    
+    ¿Cuál es el punto más débil de PGP? Que al ser de cifrado simétrico basta con que el atacante 
+                                        obtenga la llave para que tenga acceso al mensaje y su comtenido
+                                        sin mayor dificultad
+
+    ¿Cuándo es conveniente utilizar solamente cifrado simétrico? Se suele preferir usar el cifrado simétrico
+                                        sobre el asimetrico cuando son grandes volumenes de datos pues el cifrado
+                                        simetrico tiene una buena velocidad y eficiencia.
+
+    ¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)? 
+    Planing: en pla plaificacion se definen los objetivos y los procesos que se deben hacer para cumplirlos
+    Design: En el diseño se da el modelo de amenaza, para proteger el sistema antes de siquiera empezar
+    Development: Se codifica lo planetado en fases anteriores
+    Testing: Se hacen las respectivas pruebas de seguridad para ver si existen grietas de seguridad
+    Realese: Se despliega y se da su respectivo mantenimiento 
+
+• Cifre el documento del punto anterior por cifrado asimétrico para que pueda ser descifrado por
+el instructor, utilice un solo comando. Puede usar de referencia la siguiente hoja
+https://devhints.io/gnupg o el ejercicio realizado durante el laboratorio.
+
+• Lee la sección de ayuda de Github llamada verificación de firma de confirmación para agregar
+su firma GPG creada en este laboratorio. Luego suba todo en un solo commit firmado con el
+resultado de todos los ejercicios anteriores. Recuerde incluir todos los otros productos
+solicitados por su instructor.
